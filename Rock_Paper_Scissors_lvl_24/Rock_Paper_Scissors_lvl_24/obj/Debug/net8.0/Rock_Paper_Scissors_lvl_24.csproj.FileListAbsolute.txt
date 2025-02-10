@@ -1,0 +1,14 @@
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\bin\Debug\net8.0\Rock_Paper_Scissors_lvl_24.exe
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\bin\Debug\net8.0\Rock_Paper_Scissors_lvl_24.deps.json
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\bin\Debug\net8.0\Rock_Paper_Scissors_lvl_24.runtimeconfig.json
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\bin\Debug\net8.0\Rock_Paper_Scissors_lvl_24.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\bin\Debug\net8.0\Rock_Paper_Scissors_lvl_24.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.AssemblyInfoInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.AssemblyInfo.cs
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.csproj.CoreCompileInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\refint\Rock_Paper_Scissors_lvl_24.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\Rock_Paper_Scissors_lvl_24.genruntimeconfig.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Rock_Paper_Scissors_lvl_24\Rock_Paper_Scissors_lvl_24\obj\Debug\net8.0\ref\Rock_Paper_Scissors_lvl_24.dll
