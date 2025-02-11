@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hahar\\source\\The_C#_Players_Guide\\Packing_Inventory_lvl_25\\",
+  "WorkspaceRootPath": "C:\\Repo\\The_C_Sharp_Players_Guide\\Packing_Inventory_lvl_25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78160886-2689-4682-83D0-DAD2E51615BA}|Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25.csproj|c:\\users\\hahar\\source\\the_c#_players_guide\\packing_inventory_lvl_25\\packing_inventory_lvl_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78160886-2689-4682-83D0-DAD2E51615BA}|Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25.csproj|c:\\repo\\the_c_sharp_players_guide\\packing_inventory_lvl_25\\packing_inventory_lvl_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78160886-2689-4682-83D0-DAD2E51615BA}|Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25.csproj|solutionrelative:packing_inventory_lvl_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hahar\\source\\The_C#_Players_Guide\\Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25\\Program.cs",
+              "DocumentMoniker": "C:\\Repo\\The_C_Sharp_Players_Guide\\Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25\\Program.cs",
               "RelativeDocumentMoniker": "Packing_Inventory_lvl_25\\Program.cs",
-              "ToolTip": "C:\\Users\\hahar\\source\\The_C#_Players_Guide\\Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25\\Program.cs",
+              "ToolTip": "C:\\Repo\\The_C_Sharp_Players_Guide\\Packing_Inventory_lvl_25\\Packing_Inventory_lvl_25\\Program.cs",
               "RelativeToolTip": "Packing_Inventory_lvl_25\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:42:41.818Z",
               "EditorCaption": ""

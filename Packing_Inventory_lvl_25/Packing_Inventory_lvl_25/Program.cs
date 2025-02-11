@@ -4,7 +4,6 @@
     Packing Inventory
 */
 
-
 public class MyMain
 {
     public static void Main(string[] args)
@@ -27,7 +26,8 @@ public class MyMain
             Console.WriteLine($"(5) Food:  Weight = 1.0  Volume = 0.5");
             Console.WriteLine($"(6) Sword: Weight = 5.0  Volume = 3.0");
             Console.WriteLine();
-            Console.WriteLine($"Bag Limit: Weight = {pack.GetWeightLimit}  Volume = {pack.GetVolumeLimit}");
+            Console.WriteLine($"Pack Limit: Weight = {pack.GetWeightLimit}  Volume = {pack.GetVolumeLimit}");
+            Console.WriteLine($"Pack contains: {pack}");
             Console.WriteLine();
 
             // user input
@@ -122,10 +122,21 @@ public class Pack
                 }
             }
         }
-
         return false;
     }
 
+    public override string ToString()
+    {
+        string message = "";
+        foreach(InventoryItem item in items)
+        {
+            if (item != null)
+            {
+                message += $"{item} ";
+            }
+        }
+        return message;
+    }
 }
 
 // Parent class of all Items in this program
@@ -155,31 +166,37 @@ public class InventoryItem
 public class Arrow : InventoryItem
 {
     public Arrow() : base(0.1, 0.05) { }
+    public override string ToString() => "Arrow";
 }
 
 public class Bow : InventoryItem
 {
     public Bow() : base(1, 4) { }
+    public override string ToString() => "Bow";
 }
 
 public class Rope : InventoryItem
 {
     public Rope() : base(1, 1.5) { }
+    public override string ToString() => "Rope";
 }
 
 public class Water : InventoryItem
 {
     public Water() : base(2, 3) { }
+    public override string ToString() => "Water";
 }
 
 public class Food : InventoryItem
 {
     public Food() : base(1, 0.5) { }
+    public override string ToString() => "Food";
 }
 
 public class Sword : InventoryItem
 {
     public Sword() : base(5, 3) { }
+    public override string ToString() => "Sword";
 }
 
 
