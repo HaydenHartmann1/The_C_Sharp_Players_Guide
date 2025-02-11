@@ -28,7 +28,7 @@ public class MyMain
             else if (userInput == 5) { robot.Commands[i] = new SouthCommand(); }
             else if (userInput == 6) { robot.Commands[i] = new WestCommand(); }
         }
-
+        // runs robot's Run() method
         robot.Run();
 
         Console.ReadKey();
