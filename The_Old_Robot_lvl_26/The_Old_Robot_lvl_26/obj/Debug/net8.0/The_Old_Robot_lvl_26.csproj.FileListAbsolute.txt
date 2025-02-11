@@ -1,0 +1,14 @@
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\bin\Debug\net8.0\The_Old_Robot_lvl_26.exe
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\bin\Debug\net8.0\The_Old_Robot_lvl_26.deps.json
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\bin\Debug\net8.0\The_Old_Robot_lvl_26.runtimeconfig.json
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\bin\Debug\net8.0\The_Old_Robot_lvl_26.dll
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\bin\Debug\net8.0\The_Old_Robot_lvl_26.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.AssemblyInfoInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.AssemblyInfo.cs
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.csproj.CoreCompileInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.dll
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\refint\The_Old_Robot_lvl_26.dll
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\The_Old_Robot_lvl_26.genruntimeconfig.cache
+C:\Users\hahar\source\The_C#_Players_Guide\The_Old_Robot_lvl_26\The_Old_Robot_lvl_26\obj\Debug\net8.0\ref\The_Old_Robot_lvl_26.dll
